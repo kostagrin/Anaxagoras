@@ -104,3 +104,4 @@ dist
 .tern-port
 
 sass/bs-scss
+sass/package-lock.json
