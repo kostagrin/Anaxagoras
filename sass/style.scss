@@ -30,3 +30,31 @@ body {
         height: 100%;
     }
 }
+
+@media screen and (max-width: 1200px) {
+    #showcase {
+        min-height: 700px;
+    }
+  }
+
+  @media screen and (max-width: 992px) {
+    #showcase {
+        min-height: 600px;
+    }
+  }
+
+@media screen and (max-width: 768px) {
+    #showcase {
+        min-height: 500px;
+    }
+
+    .mb-resp {
+        margin-bottom: 1rem;
+    }
+  }
+
+  @media screen and (max-width: 576px) {
+    #showcase {
+        min-height: 400px;
+    }
+  }
