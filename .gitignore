@@ -105,3 +105,5 @@ dist
 
 sass/bs-scss
 sass/package-lock.json
+sass/style.css
+sass/style.css.map
