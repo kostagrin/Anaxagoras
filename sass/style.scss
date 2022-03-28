@@ -31,6 +31,16 @@ body {
     }
 }
 
+.info-header {
+    width: 50%;
+    margin: auto;
+    border-bottom: 1px solid #ddd;
+}
+
+[data-parent="#accordion"] {
+    cursor: pointer;
+}
+
 @media screen and (max-width: 1200px) {
     #showcase {
         min-height: 700px;
