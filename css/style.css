@@ -29,6 +29,9 @@ body {
 [data-parent="#accordion"] {
   cursor: pointer; }
 
+#authors img {
+  margin-top: -50px; }
+
 @media screen and (max-width: 1200px) {
   #showcase {
     min-height: 700px; } }
